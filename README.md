@@ -12,5 +12,7 @@ https://www.w3schools.com/
 
 https://www.w3schools.com/php/php_mysql_prepared_statements.asp
 
+http://www.java2s.com/Tutorials/Javascript/jQuery_UI/Tab/Build_jQuery_UI_Tabs_Simple_manipulation_in_JavaScript.htm
+
 
 
