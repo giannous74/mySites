@@ -14,5 +14,7 @@ https://www.w3schools.com/php/php_mysql_prepared_statements.asp
 
 http://www.java2s.com/Tutorials/Javascript/jQuery_UI/Tab/Build_jQuery_UI_Tabs_Simple_manipulation_in_JavaScript.htm
 
+https://www.encodedna.com/2013/08/jquery-autocomplete-dropdown-list-on-focus.htm
+
 
 
