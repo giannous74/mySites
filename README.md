@@ -18,4 +18,5 @@ https://www.encodedna.com/2013/08/jquery-autocomplete-dropdown-list-on-focus.htm
 
 https://www.jqueryscript.net/tags.php?/Autocomplete/
 
+https://www.codexworld.com/autocomplete-textbox-using-jquery-php-mysql/
 
