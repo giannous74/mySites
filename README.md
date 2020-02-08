@@ -20,3 +20,5 @@ https://www.jqueryscript.net/tags.php?/Autocomplete/
 
 https://www.codexworld.com/autocomplete-textbox-using-jquery-php-mysql/
 
+https://www.webslesson.info/2020/01/how-to-create-autocomplete-textbox-using-php-with-jquery-ajax.html
+
