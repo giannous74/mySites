@@ -24,3 +24,5 @@ https://www.webslesson.info/2020/01/how-to-create-autocomplete-textbox-using-php
 
 https://www.sqlmaestro.com/products/mysql/phpgenerator/help/editors_dynamic_cascading_combobox/
 
+https://www.webslesson.info/2017/08/online-invoice-system-by-using-php-jquery.html
+
