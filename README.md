@@ -22,3 +22,5 @@ https://www.codexworld.com/autocomplete-textbox-using-jquery-php-mysql/
 
 https://www.webslesson.info/2020/01/how-to-create-autocomplete-textbox-using-php-with-jquery-ajax.html
 
+https://www.sqlmaestro.com/products/mysql/phpgenerator/help/editors_dynamic_cascading_combobox/
+
