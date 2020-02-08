@@ -16,5 +16,6 @@ http://www.java2s.com/Tutorials/Javascript/jQuery_UI/Tab/Build_jQuery_UI_Tabs_Si
 
 https://www.encodedna.com/2013/08/jquery-autocomplete-dropdown-list-on-focus.htm
 
+https://www.jqueryscript.net/tags.php?/Autocomplete/
 
 
