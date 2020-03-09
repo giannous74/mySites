@@ -6,6 +6,8 @@ Links:
 
 https://www.tutorialrepublic.com/
 
+https://www.tutorialrepublic.com/faq.php#php-mysql
+
 https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
 
 https://www.w3schools.com/
